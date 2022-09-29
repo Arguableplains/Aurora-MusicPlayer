@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Roc6z/oj8SM8I+88Nlo55id0aUyyjiidPeIVVjsNuonKiY2wNoLUaQfJjXVG4aEV9JAfPCEZM6BAjIdCf6w+g==",
+  "success": true,
+  "projectFilePath": "/home/arguableplains/Documents/Workspace/Programacoes/C#/Music Player/gitAurora/Aurora-MusicPlayer/Aurora-MusicPlayer.csproj",
+  "expectedPackageFiles": [
+    "/home/arguableplains/.nuget/packages/libvlcsharp/3.6.6/libvlcsharp.3.6.6.nupkg.sha512"
+  ],
+  "logs": []
+}
